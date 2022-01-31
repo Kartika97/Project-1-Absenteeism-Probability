@@ -26,9 +26,9 @@ From the raw data I received, I have to clean it up so it was usable for our mod
 # EDA 
 [Tableau Public link](https://public.tableau.com/app/profile/tara5851/viz/Absenteeism_Probability_16436227906760/Story1) ;))
 
-![alt text](https://raw.githubusercontent.com/Kartika97/Project1_Absenteeism/e9807b3a70935d29c60967b20e7f324d8121c52d/Age%20vs%20Probability.png "Age vs Probability")
+![alt text](https://github.com/Kartika97/Project-1-Absenteeism-Probability/blob/main/Age%20vs%20Probability.png "Age vs Probability")
 
-![alt text](https://raw.githubusercontent.com/Kartika97/Project1_Absenteeism/e9807b3a70935d29c60967b20e7f324d8121c52d/Reasons%20of%20Absence%20vs%20Probability.png " Reasons of Absence vs Probability")
+![alt text](https://github.com/Kartika97/Project-1-Absenteeism-Probability/blob/main/Transportation%20Expense%20with%20Number%20of%20Children%20vs%20Probability.png " Reasons of Absence vs Probability")
 
 * Reason_1 = reason 1 to 14, Represent very serious diseases.
   *The reason_1 we have here represent very serious diseases. That's why the numbers tell us that the expected probability of an individual to be excessively absent because of a reason from this class is higher than 50 percent.*
